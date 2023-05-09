@@ -88,7 +88,7 @@ export const CalendarModal = () => {
         isOpen={isDateModalOpen}
         onRequestClose={onCloseModal}
         style={customStyles}
-        className='modal'
+        className='modal calendar'
         overlayClassName='modal-fondo'
         closeTimeoutMS={200}
    >
